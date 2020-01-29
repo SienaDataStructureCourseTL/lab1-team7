@@ -4,10 +4,10 @@
  *
  * @author Jim Teresco, modified by group members:
  * 
- * 1) replace with one group member's name
+ * 1) replace wtih one member's name
  *
  *
- * 2) replace with another group member's name
+ * 2) Lydia Russom
  *
  *
  * 3) 3rd member if a group of 3 only
@@ -18,8 +18,10 @@ public class Collaborate
 {
 
     public static void main(String args[]) {
-     
+        
         System.out.println("If one modifies above this line...");
+        
+        System.out.println("Lydia edits here");
         
         System.out.println("And another modifies between the previous and this...");
         
