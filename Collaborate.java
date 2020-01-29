@@ -4,7 +4,7 @@
  *
  * @author Jim Teresco, modified by group members:
  * 
- * 1) EMILY MARSH 
+ * 1) EMILY MARSH
  *
  * 2) Lydia Russom
  *
@@ -17,9 +17,7 @@ public class Collaborate
 {
 
     public static void main(String args[]) {
-
         System.out.println("Hello this is Emily");
-
         
         System.out.println("If one modifies above this line...");
         
