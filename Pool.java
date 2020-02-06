@@ -70,8 +70,12 @@ public class Pool
     public int entriesAvailable()
     {
         int count = 0;
-
-        //add your code here
+        int entry = 0;
+        if (luckyDay[hour][day].get(entry) == null)
+        {
+            count = count + 1;
+            entry++;
+        }
         
         return count;
     }
@@ -106,6 +110,7 @@ public class Pool
         double total = 0.0;
 
         //add your code here
+        // what?
         
         return total;
     }
