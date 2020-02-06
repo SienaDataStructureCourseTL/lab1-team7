@@ -17,7 +17,7 @@ public class DriverPoolStudent
         
         //2.  Test bounds of the range for pool days
         //2A. day - lower bound test 
-
+        
         //2B. day - mid-range test
 
         //2C. day - upper bound test
@@ -32,11 +32,11 @@ public class DriverPoolStudent
         //4A.  Test pool total; total is based on the pool entries above
 
         //4B.  Test pool total with a new pool and no entries.
-
+        
         //5A.  Test getWinner - winner exists
-
+        p.getWinner(7, 2);
         //5B.  Test getWinner - no winner
-
+        p.getWinner(4, 5);
         //6.   print the complete matrix
         System.out.println("\n" + p);
         
